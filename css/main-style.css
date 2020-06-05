@@ -559,4 +559,10 @@ body::-webkit-scrollbar-thumb {
     font-weight: 800;
     margin-bottom: 30px;
 }
+.brand_link {
+    color: #f7d413;
+}
+.brand_link:hover {
+    color: #fcff14;
+}
 /*End-list-view*/
